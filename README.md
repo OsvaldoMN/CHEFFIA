@@ -5,7 +5,7 @@ Repositório para o APP de receitas CHEFFIA
 
 🔍 Filtro de receitas (Todos, Salgado, Docê e Agridocê)
 
-⏭️ Botão próximo, para passar aleatóriamente para a próxima receita
+⏭️ Botão próximo, para passar para a próxima receita
 
 ❤️ Botão Gostei para salvar a receita em Favoritos
 
