@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias">
+        <item>Salgado</item>
+        <item>Doce</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">CHEFFIA</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="ia">CheffIA</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="nova_receita">Nova Receita</string>
+    <string name="preparo">Mode de Preparo</string>
+    <style name="Base.Theme.CheffIA" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.CheffIA" parent="Base.Theme.CheffIA"/>
+</resources>

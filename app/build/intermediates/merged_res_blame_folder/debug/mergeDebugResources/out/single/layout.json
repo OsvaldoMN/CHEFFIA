@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.cheffia.app-mergeDebugResources-38:/layout/item_favorito.xml",
+        "source": "com.example.cheffia.app-main-41:/layout/item_favorito.xml"
+    },
+    {
+        "merged": "C:\\Users\\osval\\.gradle\\daemon\\8.10.2\\com.example.cheffia.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\osval\\.gradle\\daemon\\8.10.2\\com.example.cheffia.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\osval\\.gradle\\daemon\\8.10.2\\com.example.cheffia.app-mergeDebugResources-38:\\layout\\activity_receitas.xml",
+        "source": "C:\\Users\\osval\\.gradle\\daemon\\8.10.2\\com.example.cheffia.app-main-41:\\layout\\activity_receitas.xml"
+    },
+    {
+        "merged": "C:\\Users\\osval\\.gradle\\daemon\\8.10.2\\com.example.cheffia.app-mergeDebugResources-38:\\layout\\activity_favoritos.xml",
+        "source": "C:\\Users\\osval\\.gradle\\daemon\\8.10.2\\com.example.cheffia.app-main-41:\\layout\\activity_favoritos.xml"
+    },
+    {
+        "merged": "C:\\Users\\osval\\.gradle\\daemon\\8.10.2\\com.example.cheffia.app-mergeDebugResources-38:\\layout\\activity_detalhe_favorito.xml",
+        "source": "C:\\Users\\osval\\.gradle\\daemon\\8.10.2\\com.example.cheffia.app-main-41:\\layout\\activity_detalhe_favorito.xml"
+    },
+    {
+        "merged": "C:\\Users\\osval\\.gradle\\daemon\\8.10.2\\com.example.cheffia.app-mergeDebugResources-38:\\layout\\item_favorito.xml",
+        "source": "C:\\Users\\osval\\.gradle\\daemon\\8.10.2\\com.example.cheffia.app-main-41:\\layout\\item_favorito.xml"
+    }
+]
