@@ -2,11 +2,11 @@
 Repositório para o APP de receitas CHEFFIA
 
 **Funcionalidade:**
-🔍 Filtro de receitas (Todos, Salgado, Docê e Agridocê);
-⏭️ Botão próximo, para passar aleatóriamente para a próxima receita;
-❤️ Botão Gostei para salvar a receita em Favoritos;
-⭐ Lista de Favoritos;
-🗑️ Botão de deletar receita favoritada;
+🔍 Filtro de receitas (Todos, Salgado, Docê e Agridocê)
+⏭️ Botão próximo, para passar aleatóriamente para a próxima receita
+❤️ Botão Gostei para salvar a receita em Favoritos
+⭐ Lista de Favoritos
+🗑️ Botão de deletar receita favoritada
 🔄 Atualização dinâmica da lista usando RecyclerView
 
 **🧠 Tecnologias Utilizadas:**
