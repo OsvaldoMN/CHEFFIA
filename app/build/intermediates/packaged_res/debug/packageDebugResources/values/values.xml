@@ -6,7 +6,7 @@
     </string-array>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <string name="app_name">CHEFFIA</string>
+    <string name="app_name">CheffIA</string>
     <string name="favoritos">Favoritos</string>
     <string name="ia">CheffIA</string>
     <string name="ingredientes">Ingredientes</string>

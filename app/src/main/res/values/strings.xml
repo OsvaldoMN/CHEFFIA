@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CheffIA</string>
+    <string name="nova_receita">Nova Receita</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="preparo">Mode de Preparo</string>
+    <string name="ia">CheffIA</string>
+
+
+    <string-array name="categorias">
+        <item>Salgado</item>
+        <item>Doce</item>
+    </string-array>
+
+
+</resources>
+
